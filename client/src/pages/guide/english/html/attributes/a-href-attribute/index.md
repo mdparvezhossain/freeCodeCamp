@@ -17,6 +17,7 @@ For instance:
     <h1>Href Attribute Example</h1>
       <p>
         <a href="https://www.freecodecamp.org/contribute/">The freeCodeCamp Contribution Page</a> shows you how and where you can contribute to freeCodeCamp's community and growth.
+        <a href="https://hacktoberfest.digitalocean.com/">FreeCodeCamp Hacktoberfest 2018</a>FreeCodeCamp and DigitalOcean Event.
       </p>
     </h1>
   </body>
