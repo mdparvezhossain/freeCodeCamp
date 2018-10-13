@@ -64,6 +64,7 @@ Here's an example of a page with a [head element](#the-head-element), a [body el
   <head>
   </head>
   <body>
+    <h1>This is my first heading</h1>
     <p>I'm a paragraph</p>
   </body>
 </html>
